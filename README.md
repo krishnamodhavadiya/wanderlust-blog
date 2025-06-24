@@ -2,7 +2,7 @@
 
 A modern, responsive travel blog built with React that takes you on a journey around the world through captivating stories, stunning photography, and travel tips.
 
-![Wanderlust Blog Preview](./public/images/adventure.png)
+![Wanderlust Blog Preview](.https://github.com/krishnamodhavadiya/wanderlust-blog/blob/main/wanderlust.png)
 
 ## ✨ Features
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name] | [Your Website]
+Made with ❤️ by Krishna Modhavadiya | WanderLust-Blog
