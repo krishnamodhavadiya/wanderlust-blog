@@ -2,7 +2,7 @@
 
 A modern, responsive travel blog built with React that takes you on a journey around the world through captivating stories, stunning photography, and travel tips.
 
-![Wanderlust Blog Preview](.https://github.com/krishnamodhavadiya/wanderlust-blog/blob/main/wanderlust.png)
+![logo](https://github.com/krishnamodhavadiya/wanderlust-blog/blob/main/wanderlust.png)
 
 ## ✨ Features
 
